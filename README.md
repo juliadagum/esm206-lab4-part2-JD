@@ -1,1 +1,5 @@
-# esm206-lab4-part2-JD
+# My Awesome Readme!
+
+- some
+- bullet
+- points
